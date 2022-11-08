@@ -2,7 +2,7 @@
   "name": "purple-colony",
   "displayName": "Purple Colony",
   "description": "Mostly purple",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "publisher": "ArmoredColony",
   "icon": "images/deep_eyes.png",
   "engines": {
