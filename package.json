@@ -1,0 +1,32 @@
+{
+  "name": "purple-colony",
+  "displayName": "Purple Colony",
+  "description": "Mostly purple",
+  "version": "0.0.5",
+  "publisher": "ArmoredColony",
+  "icon": "images/deep_eyes.png",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "vscode",
+    "theme",
+    "dark",
+    "color",
+    "armored",
+    "purple",
+    "colony"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Purple Colony",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Purple Colony-color-theme.json"
+      }
+    ]
+  }
+}
