@@ -11,6 +11,10 @@
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "utl": "https://github.com/ArmoredColony/PurpleColony.git"
+  },
   "keywords": [
     "vscode",
     "theme",
