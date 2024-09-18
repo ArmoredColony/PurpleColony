@@ -10,12 +10,14 @@ This is my personal theme for VSCode. Not gonna lie, I built this theme with Pyt
 
 armoredcolony@gmail.com
 
+[Website]
 [Artstation]
 
 [Blender Market]
 
 [Youtube]
 
-[Artstation]: https://armoredcolony.com
+[Website]: https://armoredcolony.com
+[Artstation] https://www.artstation.com/armoredcolony
 [Blender Market]: https://blendermarket.com/creators/armoredcolony
 [Youtube]: https://youtube.com/armoredcolony
