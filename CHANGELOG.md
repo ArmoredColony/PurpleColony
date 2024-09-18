@@ -6,12 +6,13 @@
 - Beta release
 
 
-## v1.0.2
+## v1.0.5
 *17/Sep/2024*
 
 ### ADDED
-- Added `workspace.whitespace` (spaces, tabs) colors.
+- Added `workspace.whitespace` colors.
 
 ### FIXED
 - Readme Formatting.
 - Bracket Pair Colors
+- Original variable colors and other similar elements.

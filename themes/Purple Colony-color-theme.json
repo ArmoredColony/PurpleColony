@@ -3,6 +3,32 @@
 	"type": "dark",
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
+		
+	  "method": {
+	    "foreground": "#b392f0"
+	  },
+	  "function": {
+	    "foreground": "#b392f0"
+	  },
+	  "class": {
+	    "foreground": "#b392f0"
+	  },
+	  "module": {
+	    "foreground": "#b392f0"
+	  },
+	  "variable": {
+	    "foreground": "#b398ff"
+	  },
+	  "property": {
+	    "foreground": "#fbcbff"
+	  },
+	  "constant": {
+	    "foreground": "#c6f09f"
+	  },
+	  "parameter": {
+	    "foreground": "#ff4099"
+	  },
+
 	  "enumMember": {
 	    "foreground": "#f97583"
 	  },
@@ -11,7 +37,8 @@
 	  },
 	  "variable.defaultLibrary": {
 	    "foreground": "#b392f0"
-	  }
+	  },
+
 	},
 	"tokenColors": [
 	  {
@@ -53,7 +80,8 @@
 	    "name": "variable.parameter.function.language.special.self.python",
 	    "scope": "variable.parameter.function.language.special.self.python",
 	    "settings": {
-	      "foreground": "#b392f0"
+	      "foreground": "#ff4099",
+	      "fontStyle": ""
 	    }
 	  },
 	  {
@@ -792,7 +820,7 @@
 	    "name": "Attribute IDs",
 	    "scope": "entity.other.attribute-name.id",
 	    "settings": {
-	      "fontStyle": "normal",
+	      "fontStyle": "",
 	      "foreground": "#b392f0"
 	    }
 	  },
@@ -800,7 +828,7 @@
 	    "name": "Attribute class",
 	    "scope": "entity.other.attribute-name.class.css",
 	    "settings": {
-	      "fontStyle": "normal",
+	      "fontStyle": "",
 	      "foreground": "#9ecbff"
 	    }
 	  },
@@ -1018,6 +1046,14 @@
 	    "scope": "invalid.unimplemented",
 	    "settings": {
 	      "foreground": "#ffffff"
+	    }
+	  },
+	  {
+	    "name": "String Quoted Docstring",
+	    "scope": "string.quoted.docstring",
+	    "settings": {
+	      "foreground": "#9ecbff",
+	      "fontStyle": "italic",
 	    }
 	  },
 	  {
@@ -1789,7 +1825,7 @@
 	    "name": "Comments",
 	    "scope": "comment, punctuation.definition.comment",
 	    "settings": {
-	      "fontStyle": "italic",
+	      "fontStyle": "",
 	      "foreground": "#795e8a"
 	    }
 	  },
@@ -1819,21 +1855,21 @@
 	    "name": "js/ts italic",
 	    "scope": "entity.other.attribute-name.js,entity.other.attribute-name.ts,entity.other.attribute-name.jsx,entity.other.attribute-name.tsx,variable.parameter,variable.language.super",
 	    "settings": {
-	      "fontStyle": "italic"
+	      "fontStyle": ""
 	    }
 	  },
 	  {
 	    "name": "comment",
 	    "scope": "comment.line.double-slash,comment.block.documentation",
 	    "settings": {
-	      "fontStyle": "italic"
+	      "fontStyle": ""
 	    }
 	  },
 	  {
 	    "name": "Python Keyword Control",
 	    "scope": "keyword.control.import.python,keyword.control.flow.python",
 	    "settings": {
-	      "fontStyle": "italic"
+	      "fontStyle": ""
 	    }
 	  },
 	  {
