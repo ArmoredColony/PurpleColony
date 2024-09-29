@@ -16,3 +16,9 @@
 - Readme Formatting.
 - Bracket Pair Colors
 - Original variable colors and other similar elements.
+
+## v1.0.6
+*29/Sep/2024*
+
+### ADDED
+- License.
