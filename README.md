@@ -14,9 +14,9 @@ I use use it for Python, with Pylance for semantic highlighting, which has some 
 
 ## Links
 
-- [ArmoredColony] - Hosts my latest products (assets, plugins, tutorials).
+- [ArmoredColony] - My latest stuff (assets, plugins, tutorials).
 
-- [Artstation] 	- My 3D Artwork made in ZBrush, Blender, and others.
+- [Artstation] 	- Personal Artwork made in ZBrush, Blender, and others.
 
 - [Blender Market] - Blender oriented products.
 
