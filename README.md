@@ -16,11 +16,11 @@ I use use it for Python, with Pylance for semantic highlighting, which has some 
 
 - [ArmoredColony] - My latest stuff (assets, plugins, tutorials).
 
-- [Artstation] 	- Personal Artwork made in ZBrush, Blender, and others.
+- [Artstation] 	- Personal artwork made in ZBrush, Blender, and others.
 
 - [Blender Market] - Blender oriented products.
 
-- [Youtube] 	- Announcements, Tutorials, tips and tricks.
+- [Youtube] 	- Announcements, tutorials, tips and tricks.
 
 
 [ArmoredColony]: https://armoredcolony.com
