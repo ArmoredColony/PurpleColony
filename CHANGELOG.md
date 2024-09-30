@@ -17,8 +17,19 @@
 - Bracket Pair Colors
 - Original variable colors and other similar elements.
 
+
 ## v1.0.6
 *29/Sep/2024*
 
 ### ADDED
 - License.
+
+
+## v1.1.0
+*30/Sep/2024*
+
+### FIXED
+- Large color inconsistency when semantic highlighting was unavailable (Pylance in VSCodium).
+
+### CHANGED
+- Readme: slightly more descriptive.
