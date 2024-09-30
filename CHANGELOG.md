@@ -1,28 +1,11 @@
 # PURPLE COLONY CHANGELOG
 
-## v0.0.6
-*08/Nov/2022*
 
-- Beta release
-
-
-## v1.0.5
-*17/Sep/2024*
-
-### ADDED
-- Added `workspace.whitespace` colors.
+## v1.1.1
+*30/Sep/2024*
 
 ### FIXED
-- Readme Formatting.
-- Bracket Pair Colors
-- Original variable colors and other similar elements.
-
-
-## v1.0.6
-*29/Sep/2024*
-
-### ADDED
-- License.
+- Semantic Highlights: property color to "white".
 
 
 ## v1.1.0
@@ -33,3 +16,4 @@
 
 ### CHANGED
 - Readme: slightly more descriptive.
+  
